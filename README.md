@@ -19,15 +19,6 @@ Este é um projeto simples de Jogo da Velha desenvolvido com HTML, CSS e JavaScr
 
 ## Estrutura do Projeto
 
-jogo-da-velha/
-├── index.html
-├── style.css
-├── script.js
-└── imgs/
-├── o.png
-└── x.png
-
-
 * `index.html`: Estrutura HTML do jogo.
 * `style.css`: Estilos CSS para a interface do jogo.
 * `script.js`: Lógica do jogo em JavaScript.
